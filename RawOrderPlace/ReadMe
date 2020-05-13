@@ -1,0 +1,12 @@
+#Eureka
+http://localhost:8761/
+
+
+#swagger
+http://localhost:8099/swagger-ui.html
+
+#hystrix
+http://localhost:8099/hystrix
+
+#hystrix dashboard
+http://localhost:8099/actuator/hystrix.stream
